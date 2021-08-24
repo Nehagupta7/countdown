@@ -1,6 +1,6 @@
 // constant variable inputDays,inputMonth that contain date and month from user
-const inputDays = prompt('Type day like(23)');
-const inputMonth = prompt('Type Month name (january february)');
+const inputDays = prompt('Type day like(1to30)');
+const inputMonth = prompt('Type full Month name (january february)');
 const inputYear =prompt('Type the year');
 //create all the variable from html is name
 // const Days = document.querySelector('Days');
